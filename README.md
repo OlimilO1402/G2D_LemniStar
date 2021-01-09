@@ -5,7 +5,7 @@ Project was started in dec. 2009 due to an idea that came to my mind a long time
 ago while playing around with Shapes in Corel-Draw, maybe around 1998.  
 Starting the project starts the animation. During animation you have the following
 keyboard commands:  
-+ / - : scale the star bigger / smaller  
+++ / - : scale the star bigger / smaller  
 a / s : add / remove star peaks  
 p     : pause  
 o     : change rotation direction  
