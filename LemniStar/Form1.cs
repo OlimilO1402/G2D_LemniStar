@@ -12,7 +12,7 @@ namespace LemniStar
     public partial class Form1 : Form
     {
         int nAnim = 256;
-        int nPeaks = 8; //4; 5; 6; ...12; //Anzahl der Spitzen des Sterns
+        int nPeaks = 9; //4; 5; 6; ...12; //Anzahl der Spitzen des Sterns
         double speed = 0.5;
         int curL = 0;
         int rotdir = -1; //direction of rotation right = -1; left = +1
