@@ -1,8 +1,0 @@
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\obj\Debug\ResolveAssemblyReference.cache
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\obj\Debug\LemniStar.Form1.resources
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\obj\Debug\LemniStar.Properties.Resources.resources
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\obj\Debug\LemniStar.csproj.GenerateResource.Cache
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\bin\Debug\LemniStar.exe
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\bin\Debug\LemniStar.pdb
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\obj\Debug\LemniStar.exe
-D:\VB_2008_Projects\CS_2005\LemniStar\LemniStar\LemniStar\obj\Debug\LemniStar.pdb
