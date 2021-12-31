@@ -6,3 +6,12 @@
 \\SOLS_DS\Daten\GitHubRepos\CS\LemniStar\LemniStar\obj\Debug\LemniStar.csproj.GenerateResource.Cache
 \\SOLS_DS\Daten\GitHubRepos\CS\LemniStar\LemniStar\obj\Debug\LemniStar.exe
 \\SOLS_DS\Daten\GitHubRepos\CS\LemniStar\LemniStar\obj\Debug\LemniStar.pdb
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\bin\Debug\LemniStar.exe
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\bin\Debug\LemniStar.pdb
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\obj\Debug\LemniStar.csproj.AssemblyReference.cache
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\obj\Debug\LemniStar.Form1.resources
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\obj\Debug\LemniStar.Properties.Resources.resources
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\obj\Debug\LemniStar.csproj.GenerateResource.cache
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\obj\Debug\LemniStar.csproj.CoreCompileInputs.cache
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\obj\Debug\LemniStar.exe
+\\SOLS_DS\Daten\GitHubRepos\CS\G2D_LemniStar\LemniStar\obj\Debug\LemniStar.pdb
