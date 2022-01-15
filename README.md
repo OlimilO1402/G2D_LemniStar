@@ -16,7 +16,5 @@ During animation you have the following keyboard commands:
  o     : change rotation direction  
   
 ![LemniStar Image](LemniStar.png "LemniStar Image")  
-
-Maybe have a look at this video where you can watch the moirees appear.  
-
-https://www.youtube.com/watch?v=xZWo6bEPQ10
+If you want to have a look how some moirees magically appear then I recommend this Video  
+[YouTube LemniStar](https://www.youtube.com/watch?v=xZWo6bEPQ10)  
